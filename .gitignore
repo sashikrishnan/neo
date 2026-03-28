@@ -1,4 +1,14 @@
+# Context dump files
+context_dump/
+context_dump.tar.xz
+
+# Python
 __pycache__/
 *.pyc
+
+# Env
 .env
+venv/
+
+# Outputs
 outputs/
