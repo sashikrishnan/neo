@@ -1,0 +1,110 @@
+{
+  "Industrial": [
+    "ESABINDIA.NS",
+    "CUMMINSIND.NS",
+    "TIMKEN.NS",
+    "THERMAX.NS",
+    "SKFINDIA.NS",
+    "AIAENG.NS",
+    "TRITURBINE.NS"
+  ],
+
+  "Capital Goods": [
+    "SIEMENS.NS",
+    "ABB.NS",
+    "LT.NS",
+    "KIRLOSENG.NS"
+  ],
+
+  "Electrical": [
+    "POLYCAB.NS",
+    "RRKABEL.NS",
+    "HAVELLS.NS",
+    "VOLTAS.NS"
+  ],
+
+  "Energy": [
+    "RELIANCE.NS",
+    "SUZLON.NS",
+    "TATAPOWER.NS",
+    "JSWENERGY.NS"
+  ],
+
+  "Oil & Gas": [
+    "ONGC.NS",
+    "IOC.NS",
+    "BPCL.NS",
+    "HPCL.NS",
+    "GAIL.NS"
+  ],
+
+  "Consumer": [
+    "NESTLEIND.NS",
+    "HINDUNILVR.NS",
+    "ITC.NS",
+    "DMART.NS",
+    "BRITANNIA.NS",
+    "DABUR.NS",
+    "MARICO.NS"
+  ],
+
+  "Auto": [
+    "MARUTI.NS",
+    "TATAMOTORS.NS",
+    "M&M.NS",
+    "HEROMOTOCO.NS",
+    "BAJAJ-AUTO.NS"
+  ],
+
+  "Auto Ancillary": [
+    "BOSCHLTD.NS",
+    "MOTHERSON.NS",
+    "ENDURANCE.NS",
+    "SONACOMS.NS"
+  ],
+
+  "IT": [
+    "TCS.NS",
+    "INFY.NS",
+    "WIPRO.NS",
+    "HCLTECH.NS",
+    "KPITTECH.NS",
+    "NEWGEN.NS"
+  ],
+
+  "Pharma": [
+    "SUNPHARMA.NS",
+    "DRREDDY.NS",
+    "CIPLA.NS",
+    "DIVISLAB.NS",
+    "LUPIN.NS"
+  ],
+
+  "Chemicals": [
+    "PIDILITIND.NS",
+    "DEEPAKNTR.NS",
+    "SRF.NS",
+    "NAVINFLUOR.NS"
+  ],
+
+  "Financials": [
+    "HDFCBANK.NS",
+    "ICICIBANK.NS",
+    "SBIN.NS",
+    "AXISBANK.NS",
+    "BAJFINANCE.NS"
+  ],
+
+  "Exchange": [
+    "BSE.NS",
+    "MCX.NS",
+    "CDSL.NS"
+  ],
+
+  "Infrastructure": [
+    "NBCC.NS",
+    "IRCTC.NS",
+    "RAILTEL.NS",
+    "POWERGRID.NS"
+  ]
+}
