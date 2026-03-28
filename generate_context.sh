@@ -40,6 +40,7 @@ cp -r doc $OUTPUT_DIR/ 2>/dev/null || echo "No docs folder"
 # Copy key files
 cp requirements.txt $OUTPUT_DIR/ 2>/dev/null || true
 cp README.md $OUTPUT_DIR/ 2>/dev/null || true
+cp CHATGPT_CONTEXT.md $OUTPUT_DIR/ 2>/dev/null || true
 cp create_project.sh $OUTPUT_DIR/ 2>/dev/null || true
 cp generate_context.sh $OUTPUT_DIR/ 2>/dev/null || true
 
